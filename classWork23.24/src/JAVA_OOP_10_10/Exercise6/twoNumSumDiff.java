@@ -1,4 +1,4 @@
-package JAVA_OOP_10_10.Exerise6;
+package JAVA_OOP_10_10.Exercise6;
 
 import java.util.Scanner;
 
